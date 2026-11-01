@@ -34,5 +34,11 @@
     "scientificName": "Lumbricus terrestris",
     "habitat": "North American and European temerate regions underground in damp, rich soils",
     "description": "Grows up to 10 to 14 inches long, featuring a reddish-brown or red-gray segmented body, a darker head containing a primitive brain, a flattened tail, and a thickened band around the center called the clitellum."
+  }, 
+  {
+    "commonName": "Chicken",
+    "scientificName": "Gallus gallus domesticus",
+    "habitat": "tropical and subtropical forests, bamboo groves, and shrubby forest edges of Southeast Asia",
+    "description": "Has a squat, rounded body, a short beak, small wings, and a featherless lower leg with four claws per foot"
   }
 ]
