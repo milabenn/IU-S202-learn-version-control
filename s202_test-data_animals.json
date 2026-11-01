@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  }, 
+  {
+    "commonName": "Night crawler",
+    "scientificName": "Lumbricus terrestris",
+    "habitat": "North American and European temerate regions underground in damp, rich soils",
+    "description": "Grows up to 10 to 14 inches long, featuring a reddish-brown or red-gray segmented body, a darker head containing a primitive brain, a flattened tail, and a thickened band around the center called the clitellum."
   }
 ]
